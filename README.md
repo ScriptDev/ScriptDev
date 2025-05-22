@@ -144,4 +144,70 @@
 > Criado para pequenas empresas como a minha, o InstaBoosterPro gera textos, imagens e legendas otimizadas com IA. Automatizei o marketing para ter mais tempo com o que importa: o cliente. Um passo real na integração entre IA e branding.
 
 
+
+## 🔬 Labs e Protótipos
+
+### 🧪 Sistema de Precificação Inteligente com IA
+> 💰 **Protótipo criado durante hackathon para definir valores justos por serviço**  
+>
+> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+> <img src="https://img.shields.io/badge/Typeform-262626?style=for-the-badge&logo=typeform&logoColor=white" />
+> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+>
+> Desenvolvido com o objetivo de oferecer uma ferramenta justa e automatizada de precificação para profissionais de TI. O sistema considera região, tempo, experiência e complexidade para sugerir valores ideais para projetos personalizados.
+
+---
+
+### 🧪 Plataforma Multiagente com Painel Web
+> 🤖 **Solução SaaS com IA colaborativa entre agentes especializados**  
+>
+> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+>
+> Protótipo avançado que simula um time de IAs (Dev, Testadora, Validadora, Entregadora), com controle de logs, autenticação de usuários e painel de gerenciamento. Ideal para times ágeis, freelancers e startups que desejam acelerar produção.
+
+---
+
+### 🧪 Bot de RPG com IA Adaptativa
+> 🎮 **Experimentação de IA narrativa fora do jogo principal**
+>
+> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+>
+> Projeto que simula um bot de IA capaz de narrar em tempo real aventuras baseadas nas decisões do jogador. Laboratório de testes para treinar diálogos, ramificações e IA emocional.
+
+---
+
+### 🧪 Automação de Postagens com N8N e Google Sheets
+> 📲 **Ferramenta de automação de conteúdo para redes sociais via planilha**
+>
+> <img src="https://img.shields.io/badge/N8N.io-E32B2B?style=for-the-badge&logo=n8n&logoColor=white" />
+> <img src="https://img.shields.io/badge/Google Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+>
+> Protótipo de automação low-code que permite alimentar redes sociais com base em um calendário de conteúdo via planilhas. O sistema gera posts com imagens, links e datas pré-definidas.
+
+---
+
+### 🧪 Controle de Caixa para Barbearia
+> 💈 **Sistema financeiro para microempresas com relatórios diários e semanais**
+>
+> <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+> <img src="https://img.shields.io/badge/Handlebars-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=orange" />
+>
+> Protótipo de gestão de caixa diária integrado a agendamentos e controle de serviços. Visualização otimizada por funcionário e totalização automática por turno e dia.
+
+---
+
+### 🧪 Site de RPG Medieval com Integração de Comunidade
+> 🛡️ **Protótipo de site com login, cadastro, fórum e entrada ao jogo**
+>
+> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+>
+> Desenvolvi essa interface como um protótipo visual e funcional para integrar o jogador ao universo do RPG, separando a comunidade de discussão e o ambiente ingame com acesso independente.
+
+
+
 </div>
