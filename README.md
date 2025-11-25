@@ -4,9 +4,8 @@
 
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://cripitando.com)
 
-[![Fale Comigo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5585991996726)
+[![Fale Comigo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5585987550573)
 
-[![Analise Perfil](https://github-readme-stats.vercel.app/api?username=ScriptDev&show_icons=true&theme=merko)]
 
 ### 🚀 Tecnologias do Meu Dia a Dia 🔩
 
