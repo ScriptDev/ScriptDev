@@ -6,6 +6,8 @@
 
 [![Fale Comigo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5585987550573)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-cardoso-026487149)
+
 
 ### 🚀 Tecnologias do Meu Dia a Dia 🔩
 
@@ -23,6 +25,22 @@
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
+#### 💻 Desenvolvimento Web (Full-Stack)
+<div style="display:inline-block;"><br/>
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+#### 🛡️ DevSecOps & Infraestrutura
+<div style="display:inline-block;"><br/>
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img align="center" alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img align="center" alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+</div>
+
 #### 🧠 Inteligência Artificial & Ciência de Dados
 <div style="display:inline-block;"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -32,6 +50,22 @@
 <div style="display:inline-block;"><br/>
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+</div>
+
+#### 🏗️ Desenvolvimento de Sistemas (Corporativo / Escalável / Alto Nível)
+<div style="display:inline-block;"><br/>
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</div>
+
+#### 🧠 Engenharia de IA & Machine Learning
+<div style="display:inline-block;"><br/>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="OpenAI API" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img align="center" alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 
 #### 🧩 Desenvolvimento de Sistemas (Baixo Nível / Embedded / Performance)
@@ -50,7 +84,65 @@
 > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 > <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 >
-> Criei esse jogo para unir minha paixão por narrativas imersivas e inteligência artificial. A proposta é simples, mas ambiciosa: desenvolver um mundo que responda às escolhas do jogador em tempo real. É um laboratório vivo onde testo IA adaptativa, interação dinâmica e storytelling inteligente.
+> Criei esse jogo para unir minha paixão por narrativas imersivas e inteligência artificial. A proposta é simples, mas ambiciosa: desenvolver um mundo que responda às escolhas do jogador em tempo real, que muda conforme as escolhas que seja um mundo vivo e reativo mais ou mesmo tempo fluido e constante e com linha temporal fixa mais maleavel. Esse projeto é um laboratório vivo onde testo IA adaptativa, interação dinâmica e storytelling inteligente.
+---
+### 🔹 WiHub Connect – SaaS Multi-Tenant de Hotspot Wi-Fi
+> 📡 **Microserviços para Captação Inteligente e Marketing**  
+>
+> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+>
+> Projetado com uma arquitetura de microsserviços, este SaaS permite que estabelecimentos ofereçam Wi-Fi em troca da captação de dados para marketing. O sistema opera no modelo de assinatura mensal (tenant), focando em alta disponibilidade, isolamento de dados entre clientes e geração de métricas valiosas para os contratantes.
+> 🔗 **Acesse:** [https://wihub-connect.vercel.app/](https://wihub-connect.vercel.app/)
+
+---
+
+### 🔹 SmartFinance AI – Plataforma de Gestão Financeira Inteligente
+> 💸 **Controle de Gastos com IA Adaptativa e Geolocalização**  
+>
+> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+>
+> Uma aplicação financeira que vai além de planilhas. Utilizando IA adaptativa, o sistema mapeia a rotina de consumo do usuário por geolocalização e avalia os melhores custos-benefícios da região. A arquitetura foi pensada para garantir a segurança dos dados e fornecer insights financeiros em tempo real e de forma prática.
+> 🔗 **Acesse:** [https://smartfinanceai.com.br/](https://smartfinanceai.com.br/)
+
+---
+
+### 🔹 Gráfica Cardoso Enterprise – E-commerce B2B/B2C
+> 🖨️ **Plataforma Escalável de Vendas e Gestão Gráfica**  
+>
+> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+>
+> Desenvolvimento da plataforma central da minha própria empresa gráfica. Focada no nível enterprise, a aplicação automatiza o fluxo de vendas online, integrando a experiência do cliente final com o gerenciamento interno e serviços terceirizados, sempre visando otimização de margem de lucro e eficiência operacional.
+> 🔗 **Acesse:** [https://graficacardoso.com.br/](https://graficacardoso.com.br/)
+
+---
+
+### 🔹 Soro-Vida – Localizador de Soros Antipeçonhentos
+> 🐍 **Saúde Pública Orientada a Dados e Geolocalização (Fortaleza-CE)**  
+>
+> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+> <img src="https://img.shields.io/badge/API_Rest-005571?style=for-the-badge&logo=routing&logoColor=white" />
+>
+> Nascido da necessidade de respostas rápidas em emergências de saúde. Este sistema utiliza dados abertos do governo para localizar imediatamente os hospitais em Fortaleza que possuem soro contra animais peçonhentos. Uma solução de impacto social direto, projetada para ser leve, acessível e salvar tempo vital.
+> 🔗 **Acesse:** [https://soro-vida-ce-2026.vercel.app/](https://soro-vida-ce-2026.vercel.app/)
+
+---
+
+### 🔹 Propice – Plataforma de Estudo Dirigido por IA
+> 📚 **Preparação Estratégica e Contextual para Concursos**  
+>
+> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+>
+> Focada em alta performance para concurseiros. O sistema utiliza inteligência artificial generativa e Engenharia de Prompts para criar trilhas de estudos contextuais e dinâmicas, adaptando-se às necessidades específicas dos editais. Desenvolvido para transformar o processo de estudo mecânico em uma experiência interativa e de alto rendimento.
 
 ---
 
@@ -109,7 +201,15 @@
 > <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 >
 > Sempre acreditei que tecnologia deve incluir, não excluir. Criei esse site para ajudar idosos a darem os primeiros passos no mundo digital, com aulas visuais, menus intuitivos e suporte interativo. Foi um desafio de UX e um ato de afeto.
-
+---
+### 🔹 Educando AI (Plataforma de educação assistida por IA)
+> 👵 **Tecnologia Adaptativa e Inclusão Digital**  
+>
+> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+>
+> Acredito que a tecnologia deve ser um vetor de inclusão, não de exclusão. Desenvolvi esta plataforma para capacitar idosos no universo digital através de trilhas de aprendizado personalizadas por IA, menus intuitivos e suporte interativo. Foi um desafio de UX centrado na acessibilidade e um compromisso técnico em transformar complexidade em simplicidade.
 ---
 
 ### 🔹 SafeRoad AI – IA para Trânsito Inteligente
